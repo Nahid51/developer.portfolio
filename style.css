@@ -39,10 +39,7 @@ p {
 }
 
 .half-width img {
-    width: 80%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
+    width: 100%
 }
 
 .btn {
