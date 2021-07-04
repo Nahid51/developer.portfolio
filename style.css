@@ -15,7 +15,6 @@ span {
 
 .flexiable {
     display: flex;
-    margin-bottom: 50px;
 }
 
 p {
@@ -88,6 +87,10 @@ h2 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 
+}
+
+footer {
+    margin-top: 50px;
 }
 
 footer p {
